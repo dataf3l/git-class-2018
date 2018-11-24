@@ -2,9 +2,7 @@ print("123")
 print("123")
 print("123")
 print("123")
-print("123")
-print("123")
-if True:
+if False:
     print("123")
 print("123")
 print("123")
